@@ -19,10 +19,8 @@
 - torchvision 0.10.0+
 
 ## 项目结构
-数字识别/
 ├── train_model.py           # 模型训练脚本
-├── data/                    # 数据目录
-│   └── mnist_model.pth     # 预训练模型
+├── mnist_model.pth     # 预训练模型
 └── README.md               # 说明文档
 
 
